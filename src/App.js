@@ -24,9 +24,6 @@ class App extends Component {
 
       <Router>
       <div>
-
-        {/* A <Switch> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/skills_and_experience">
             <Skills />

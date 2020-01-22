@@ -14,21 +14,8 @@
   padding: 0 1rem;
 }
 
-.toolbar_logo a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.5rem;
-}
-
-.toolbar_logo_bonus{
-  color: #dcdcdc;
-  text-decoration: none;
-  font-size: 0.8rem;
-  height: 0.5rem;
-}
-
-.space {
- flex: 0.03;
+.bottom_space {
+ flex: 1;
 }
 
 .toolbar_navigation-items ul {

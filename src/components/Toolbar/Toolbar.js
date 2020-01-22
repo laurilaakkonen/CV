@@ -11,7 +11,7 @@ const toolbar = props => (
   <header className="toolbar">
   <Router>
   <nav className="toolbar_navigation">
-    <div className="toolbar_logo"><a href="/">Lauri Laakkonen</a></div>
+    <div className="toolbar_logo"><Link  to="/">Lauri Laakkonen</Link></div>
     <div className="toolbar_logo_bonus">the web app CV</div>
     <div className="space" />
     <div className="toolbar_navigation-items">

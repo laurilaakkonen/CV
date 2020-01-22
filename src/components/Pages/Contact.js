@@ -3,7 +3,7 @@ import React from 'react'
 
 const contact = props => (
   <div>
-  please take the contact, or look down in below
+  Contact me via email at lauri.p.laakkonen(a)gmail.com
   </div>
 );
 
