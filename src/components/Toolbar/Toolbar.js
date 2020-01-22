@@ -20,3 +20,5 @@ const toolbar = props => (
 );
 
 export default toolbar;
+
+    {/*<Link to="/contact">Contact me</Link></li>*/}

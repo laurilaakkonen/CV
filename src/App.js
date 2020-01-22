@@ -25,6 +25,20 @@ class App extends Component {
       <Router>
       <div>
 
+      <nav>
+          <ul>
+            <li>
+              <Link to="/skills_and_experience">Skills</Link>
+            </li>
+            <li>
+              <Link to="/previous_work">Previous work</Link>
+            </li>
+            <li>
+              <Link to="/contact">Contact</Link>
+            </li>
+          </ul>
+        </nav>
+
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
