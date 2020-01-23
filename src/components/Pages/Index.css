@@ -1,0 +1,12 @@
+.parallel{
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  border-radius: 20px;
+}
+
+.lauripic{
+  font-size: 0;
+}
