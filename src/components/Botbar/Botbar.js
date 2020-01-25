@@ -5,6 +5,7 @@ import './Botbar.css'
 const botbar = props => (
   <div class="footer">
   <nav className="toolbar_navigation">
+  <div className="toolbar_socials">Socials</div>
     <div className="bottom_space" />
     <div className="toolbar_navigation-items">
       <ul>

@@ -3,6 +3,11 @@
   justify-content: space-around;
 }
 
+.maintext{
+  width: 30em;
+  height: 40em;
+}
+
 img {
   border-radius: 20px;
 }

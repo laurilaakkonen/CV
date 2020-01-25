@@ -20,7 +20,8 @@ class App extends Component {
     <div className ="App">
       <Toolbar />
       <main style={{marginTop: '60px', mariginBot: '50px'}}>
-      <p>Here is some text</p>
+      <br></br>
+      <br></br>
 
       <Router>
       <div>
@@ -40,8 +41,6 @@ class App extends Component {
         </Switch>
       </div>
     </Router>
-
-    <p>Here is some bottomtext</p>
 
       </main>
       <Botbar />

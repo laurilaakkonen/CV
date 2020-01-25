@@ -3,8 +3,14 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background: #426699;
+  background: #4775d1;
   height: 50px;
+}
+
+.toolbar_socials {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
 }
 
 .toolbar_navigation {
@@ -15,7 +21,7 @@
 }
 
 .bottom_space {
- flex: 1;
+ flex: 0.01;
 }
 
 .toolbar_navigation-items ul {
