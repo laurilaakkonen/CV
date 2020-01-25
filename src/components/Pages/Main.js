@@ -16,8 +16,7 @@ const main = props => (
         I’m laid back, social and I sometimes like to joke around, but I know how to keep things professional.
         I’m also honest and open about things. My previous employer has called me reliable and hard working.
         <br></br> <br></br>
-        On my free time I like to cook, play videogames and cook.
-
+        On my free time I like to cook, play videogames and go to the gym
         </div>
       </div>
       <div className="lauripic">
