@@ -9,7 +9,7 @@ import {
 
 import Toolbar  from "./components/Toolbar/Toolbar"
 import Botbar   from "./components/Botbar/Botbar"
-import Index    from "./components/Pages/Index"
+import Main    from "./components/Pages/Main"
 import Skills   from "./components/Pages/Skills"
 import Work     from "./components/Pages/Work"
 import Contact  from "./components/Pages/Contact"
@@ -36,7 +36,7 @@ class App extends Component {
             <Contact />
           </Route>
           <Route path="/">
-            <Index />
+            <Main />
           </Route>
         </Switch>
       </div>

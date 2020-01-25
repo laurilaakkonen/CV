@@ -18,7 +18,7 @@ const toolbar = props => (
       <ul>
         <li><Link to="/skills_and_experience">Skills and experience</Link></li>
         <li><Link to="/previous_work">Previous work</Link></li>
-        <li><Link to="/contact">Contact me</Link></li>
+        <li><Link to="/contact">Contact</Link></li>
       </ul>
     </div>
   </nav>
