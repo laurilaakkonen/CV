@@ -32,6 +32,7 @@ const work = props => (
         <h3>Tutoring, Digit ry, 2016, 2017 & 2019</h3>
         <ul>
           <li>As a student tutor I helped freshmen get started in their university life and studies</li>
+          <br></br><br></br>
         </ul>
         </div>
       </div>
