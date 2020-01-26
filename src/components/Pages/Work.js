@@ -1,5 +1,6 @@
 import React from 'react'
 import lauripic from './Lauripic.jpg'
+import './Work.css'
 
 const work = props => (
   <div>
@@ -7,7 +8,7 @@ const work = props => (
       <div>
       </div>
       <div>
-        <div className="maintext">
+        <div className="workmaintext">
         <h2>Previous work</h2>
         <h3>Camera car driver, Pro-Source, 2018 & 2019 </h3>
         <ul>
@@ -32,7 +33,6 @@ const work = props => (
         <h3>Tutoring, Digit ry, 2016, 2017 & 2019</h3>
         <ul>
           <li>As a student tutor I helped freshmen get started in their university life and studies</li>
-          <br></br><br></br>
         </ul>
         </div>
       </div>
