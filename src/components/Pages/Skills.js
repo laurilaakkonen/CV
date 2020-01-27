@@ -12,7 +12,7 @@ const skills = props => (
         I’ve been studying IT from 2015 and I’m estimating I would be graduating in 2021.
         <br></br>
         I’ve yet to gather job experience from own field, but I have done projects in university courses
-        and outside of them too, such as this web app was created with React. You can find more from my&nbsp;
+        and outside of them too, such as this web app which was created with React. You can find more from my&nbsp;
         <a href="https://github.com/laurilaakkonen" target="_blank">Github</a>.
         <br></br>
         I have done projects with <b>Java, JavaScript</b> (e.g. React) and know how to use <b>Git</b>.
